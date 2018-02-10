@@ -1,4 +1,6 @@
-/pkg/
-/src/
 *.xz
+*.diff
+
+pkg/
+src/
 st/
